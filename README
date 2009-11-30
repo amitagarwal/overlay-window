@@ -1,0 +1,20 @@
+Overlay-window
+==============
+
+Introduction goes here.
+
+
+Example
+=======
+
+sh install.sh 
+
+add window.js
+add pop.css in the view 
+
+<%= link_to_prototype_dialog( "Tags", {:url =>"/home/index"},"alert",:windowParameters =>{:height=>'533',:width=>'833'})%>
+
+
+
+
+Copyright (c) 2009 [amitdotagarwal@gmail.com], released under the MIT license
